@@ -1,0 +1,15 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "price": 1000000,
+      "bedrooms": 7,
+      "bathrooms": 2,
+      "houseNumber": "12",
+      "address": "Richard Lane",
+      "region": "London",
+      "postcode": "W1F 3FT",
+      "type": "DETACHED"
+    }
+  ]
+}

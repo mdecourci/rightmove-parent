@@ -1,0 +1,11 @@
+logging:
+  level.root: INFO
+  level:
+    org.rightmove.property: INFO
+    org.springframework: INFO
+    org.springframework.web.client.RestTemplate: DEBUG
+    org.apache.http: DEBUG
+
+property:
+  dataset:
+    url: https://raw.githubusercontent.com/rightmove/Code-Challenge-Backend/master/property-data.json
